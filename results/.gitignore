@@ -1,2 +1,4 @@
-*.dat
+*.dat # ignore all data files (.dat)
 results/
+!final.dat #except final.data
+
